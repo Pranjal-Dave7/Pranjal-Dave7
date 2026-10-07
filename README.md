@@ -1,16 +1,19 @@
-## Hi there 👋
+💫 About me:
 
-<!--
-**Pranjal-Dave7/Pranjal-Dave7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year engineering student focused on core software development, data structures and algorithms, and building web applications.
 
-Here are some ideas to get you started:
+=> Technical Toolkit:
+- Languages: Java, SQL, C
+- Web: HTML, CSS, JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+=> Focused on:
+- Core Engineering: Mastering DSA in Java
+- Development: Building full-stack web applications 
+- Background: Leveraging a foundation in defensive Cybersecurity (OSINT & GRC) as I build software applications. 
+
+=> Currently learning:
+- Node.js
+- Spring Boot
+
+
+
